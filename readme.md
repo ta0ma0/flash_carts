@@ -5,3 +5,10 @@
 # Settings
 *Dictionary must be CSV with delimiter ';'*
 *Configuration file config.py*
+
+# How to use?
+*starting command*
+```
+python3 flash_words.py
+```
+
