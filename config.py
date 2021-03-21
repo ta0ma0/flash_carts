@@ -1,5 +1,5 @@
 [DICT]
-path = /home/ruslan/Dropbox/Translate/fall_dict.csv 
+path = /home/ruslan/Dropbox/Translate/xab
 
 [TIMEFLASH]
 flash_timeout = 5

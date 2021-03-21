@@ -12,7 +12,7 @@
 # How to use?
 *starting command*
 ```
-python3 flash_words.py
+python3 flash_words.py dict_file.csv
 ```
 When you remember words, you may create new csv file with words and add to
 config.py her path.
